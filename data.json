@@ -1,0 +1,25 @@
+[
+    { "name": "Футболка чёрная", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка белая", "price": 3990, "size": "s", "image": "images/wwr.png"},
+    { "name": "Футболка красная", "price": 3990, "size": "L", "image": "images/wwr.png"},
+    { "name": "Футболка синяя", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка зелёная", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка жёлтая", "price": 3990, "size": "L", "image": "images/wwr.png"},
+    { "name": "Футболка розовая", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка оранжевая", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка фиолетовая", "price": 3990, "size": "L", "image": "images/wwr.png"},
+    { "name": "Футболка коричневая", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка серый меланж", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка чёрный меланж", "price": 3990, "size": "L", "image": "images/wwr.png"},
+    { "name": "Футболка белый меланж", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка красный меланж", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка синий меланж", "price": 3990, "size": "L", "image": "images/wwr.png"},
+    { "name": "Футболка зелёный меланж", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка жёлтый меланж", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка розовый меланж", "price": 3990, "size": "M", "image": "images/wwr.png"},
+    { "name": "Футболка оранжевый меланж", "price": 3990, "size": "S", "image": "images/wwr.png"},
+    { "name": "Футболка фиолетовый меланж", "price": 3990, "size": "L", "image": "images/wwr.png"}
+   
+  ]
+  
+  

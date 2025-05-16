@@ -1,0 +1,38 @@
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Каталог товаров</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">FASHION.ME</div>
+    <nav>
+      <a href="index.html">Главная</a>
+      <a href="https://wa.me/77001234567" target="_blank">WhatsApp</a>
+    </nav>
+  </header>
+
+  <section class="catalog">
+    <h2>Каталог</h2>
+    <input type="text" id="search" placeholder="Поиск...">
+    <select id="sizeFilter">
+      <option value="">Все размеры</option>
+      <option value="S">S</option>
+      <option value="M">M</option>
+      <option value="L">L</option>
+    </select>
+
+    <div class="product-grid" id="productList">
+      <!-- Карточки товаров будут добавлены через JS -->
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>© 2025 FASHION.ME — Все права защищены</p>
+  </footer>
+
+  <script src="catalog.js.js"></script>
+</body>
+</html>
